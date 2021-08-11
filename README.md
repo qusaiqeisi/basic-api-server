@@ -14,10 +14,10 @@
 
 ## deployment links
 
-- qusai-basic-api-server --> [repo]()
-- PR --> [pull requist]()
-- repo action -->[action]()
-- heruko --> [heruko]()
+- qusai-basic-api-server --> [repo](https://github.com/qusaiqeisi/basic-api-server)
+- PR --> [pull requist](https://github.com/qusaiqeisi/basic-api-server/pull/1)
+- repo action -->[action](https://github.com/qusaiqeisi/basic-api-server/runs/3302534501)
+- heruko --> [heruko](https://qusai-basic-api-server.herokuapp.com/)
 
 ## MUL
 ![](img/uml.png)
