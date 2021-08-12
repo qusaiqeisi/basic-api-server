@@ -23,7 +23,7 @@ let start=(port)=>{
 }
 
 app.get('/',(req,res)=>{
-    res.send('qusai and sultan fucked up ')
+    res.send('qusai and sultan worm up ')
 })
 
 app.use('*', notFoundHandler);
