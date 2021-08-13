@@ -1,11 +1,6 @@
-'use strict';
-require('dotenv').config();
+'use strict'; require('dotenv').config(); 
+ const {start} = require('./src/server');
+  const {db} = require('./src/models/index'); 
+  //destructuring es6 // first connect to my Database then start my server 
 
-const server = require('./src/server');
-const port=process.env.PORT
-const {db} = require('./src/models/index'); 
-
-db.sync().then(()=> {
-    server.start(port);
-})
-.catch(console.error);
+  db.sync().then(()=> { start(process.env.PORT|| 8080); }) .catch(console.error);
