@@ -15,7 +15,7 @@
 ## deployment links
 
 - qusai-basic-api-server --> [repo](https://github.com/qusaiqeisi/basic-api-server)
-- PR --> [pull requist](https://github.com/qusaiqeisi/basic-api-server/pull/1)
+- PR --> [pull requist](https://github.com/qusaiqeisi/basic-api-server/pull/3)
 - repo action -->[action](https://github.com/qusaiqeisi/basic-api-server/runs/3302534501)
 - heruko --> [heruko](https://qusai-basic-api-server.herokuapp.com/)
 
